@@ -11,3 +11,5 @@
 - Servir fria.
 ## Variacion
 - Menta: 6 hojas
+## Servir
+- Hielo: 6 cubos
